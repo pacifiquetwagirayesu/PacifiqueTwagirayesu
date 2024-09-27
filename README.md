@@ -50,7 +50,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pacifique-twagirayesu-19823918b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pacifique-twagirayesu-19823918b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/27499451" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27499451" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/pacifiquetwagirayesu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="anirudhrai693" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/pacifiquetwagirayesu/" target="blank"><img align="center" src="https://www.svgrepo.com/svg/306328/leetcode" alt="Pacifique leetcode" height="30" width="40" /></a>
 <a href="https://instagram.com/paccy07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pacifique" height="30" width="40" /></a>
 </p>
 <br>
