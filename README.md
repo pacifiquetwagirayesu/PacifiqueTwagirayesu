@@ -48,10 +48,10 @@
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anirudh-rai-072732220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21304875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21304875" height="30" width="40" /></a>
-<a href="https://kaggle.com/anirudhrai693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anirudhrai693" height="30" width="40" /></a>
-<a href="https://instagram.com/anii_akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pacifique-twagirayesu-19823918b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pacifique-twagirayesu-19823918b" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/27499451" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27499451" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/pacifiquetwagirayesu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="anirudhrai693" height="30" width="40" /></a>
+<a href="https://instagram.com/paccy07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pacifique" height="30" width="40" /></a>
 </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pacifiquetwagirayesu&label=Profile%20views&color=0e75b6&style=flat" alt="pacifiquetwagirayesu" /> </p>
@@ -59,6 +59,6 @@
 ------
 
 
-[ANii693](https://github.com/ANii693)
+[Pacifique Twagirayesu](https://github.com/pacifiquetwagirayesu)
 
-Last Edited on: 28/02/2023
+Last Edited on: 27/09/2024
