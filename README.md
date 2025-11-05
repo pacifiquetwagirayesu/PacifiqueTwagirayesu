@@ -15,6 +15,8 @@
 - Currently open to **Senior Software Engineer roles (Remote / Hybrid / Global)**
 - Contact: **pacifiquetwagirayesu@gmail.com**
 
+> Note: I previously had another GitHub account ([pacifiquet](https://github.com/pacifiquet)), but I no longer have access to it. I am rebuilding and consolidating my projects on this profile.
+
 ---
 
 ### 🛠️ Tech Stack  | Stack
