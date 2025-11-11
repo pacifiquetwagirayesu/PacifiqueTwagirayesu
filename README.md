@@ -9,10 +9,9 @@
 ---
 
 ### 🧑‍💻 About Me
-- Specialized in **Backend & API Development**
+- Strong emphasis on **Backend Architecture & API Development**, while also developing modern web interfaces using **React, Next.js, and Angular**.
 - Strong experience with **Java (Spring Boot)** and **Python (Django / DRF)**
 - Skilled in designing **microservices**, system integration, and database design
-- Currently open to **Senior Software Engineer roles (Remote / Hybrid / Global)**
 - Contact: **pacifiquetwagirayesu@gmail.com**
 
 > Note: I previously had another GitHub account ([pacifiquet](https://github.com/pacifiquet)), but I no longer have access to it. I am rebuilding and consolidating my projects on this profile.
