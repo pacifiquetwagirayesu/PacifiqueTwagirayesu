@@ -46,8 +46,8 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pacifiquetwagirayesu&show_icons=true&theme=dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pacifiquetwagirayesu&layout=compact&theme=dark" height="150"/>
+   <img src="https://github-readme-stats-commit-link.vercel.app/api?username=pacifiquetwagirayesu&show_icons=true&theme=dark&count_private=true&include_all_commits=true" height="150"/>
+  <img src="https://github-readme-stats-commit-link.vercel.app/api/top-langs?username=pacifiquetwagirayesu&layout=compact&theme=dark&count_private=true&langs_count=8" height="150"/>
 </p>
 
 ---
