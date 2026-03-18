@@ -1,6 +1,6 @@
 # 👋 About Me:
 
-### 🎯 Senior Software Engineer
+### 🎯 Software Engineer
 
 > **Note:** I previously maintained projects on [@pacifiquet](https://github.com/pacifiquet) but no longer have access to that account. I'm rebuilding my portfolio here with improved projects.
 
